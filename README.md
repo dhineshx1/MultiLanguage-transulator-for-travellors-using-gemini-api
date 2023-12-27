@@ -1,4 +1,4 @@
-Multi Language Translator for Travelers using the Google gemini Api
+*Multi-Language Translator for Travelers using the Google gemini Api*
 
 Demo video 
 
