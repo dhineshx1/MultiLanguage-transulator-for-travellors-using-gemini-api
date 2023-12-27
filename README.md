@@ -40,3 +40,16 @@ TO RUN THE APP
   streamlit run app.py
 ```
 
+
+## Demo
+
+![sample1](https://github.com/dhineshx1/MultiLanguage-transulator-for-travellors-using-gemini-api/blob/9235baba2e9958b7b1510f9c019b66a17b907bb6/demo%20data/sample%20image/Screenshot%202023-12-27%20162308.png)
+![sample2](https://github.com/dhineshx1/MultiLanguage-transulator-for-travellors-using-gemini-api/blob/9235baba2e9958b7b1510f9c019b66a17b907bb6/demo%20data/sample%20image/Screenshot%202023-12-27%20162350.png)
+
+
+#
+# THANK YOU
+CONTACT ME   
+ dhineshx1@gmail.com                   
+ www.linkedin.com/in/dhineshx1
+
