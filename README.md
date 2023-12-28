@@ -1,5 +1,5 @@
 
-# MULTI-LANGUAGE TRANSLAToR FOR TRAVELLERS
+# MULTI-LANGUAGE TRANSLATOR FOR TRAVELLERS
 
 Multi-language translator for travellers using the google Gemini API
 
