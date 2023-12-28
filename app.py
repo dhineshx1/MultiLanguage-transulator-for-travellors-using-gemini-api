@@ -40,10 +40,10 @@ def input_image_setup(uploaded_file):
 
 ##initialize our streamlit app
 
-st.set_page_config(page_title="MULTILANGUAGE TRANSULATOR FOR TRAVELLORS")
+st.set_page_config(page_title="MULTILANGUAGE TRANSLATOR FOR TRAVELLERS")
 
-st.header("TRAVELLOR'S TRANSULATOR")
-input=st.text_input("Input Prompt: ",key="input")
+st.header("TRAVELLER'S TRANSLATOR")
+input=st.text_input("Ask question: ",key="input")
 uploaded_file = st.file_uploader("Choose an image...", type=["jpg", "jpeg", "png"])
 image=""   
 if uploaded_file is not None:
@@ -51,7 +51,7 @@ if uploaded_file is not None:
     st.image(image, caption="Uploaded Image.", use_column_width=True)
 
 
-submit=st.button("Tell me about the image")
+submit=st.button("Answer my question")
 
 input_prompt = """
                You are an expert in transulating and give information about the text in the picture. 
