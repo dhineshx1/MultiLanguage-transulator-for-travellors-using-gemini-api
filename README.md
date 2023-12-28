@@ -41,9 +41,6 @@ TO RUN THE APP
 ```
 
 
-## Demo
-click the link 
-https://travellerstranslator.streamlit.app/
 #
 # THANK YOU
 CONTACT ME   
